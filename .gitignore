@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Log files
+*.log
+logs/
+
+# Environment / secrets
+.env
+.env.*
+
+# Backup files
+backup/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Local test files
+permission_test.txt
+test*.txt
